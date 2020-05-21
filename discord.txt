@@ -1,0 +1,82 @@
+"""def get_prefix(client, message):
+    with open('prefixes.json', 'r') as f:
+        prefixes = json.load(f)
+
+    return prefixes[str(message.guild.id)]"""
+
+
+"""@client.event
+async def on_ready():
+    print("Bot is ready.")
+
+
+@client.event
+async def on_member_join(member):
+    print(f'{member} has joined a server.')
+
+
+@client.event
+async def on_member_remove(member):
+    print(f'{member} has left a server.')
+
+
+@client.command()
+async def ping(ctx):
+    await ctx.send(f'Pong! {round(client.latency * 1000)}ms')
+
+
+@client.command(aliases=['8ball', 'test'])
+async def _8ball(ctx, *, question):
+    
+
+    responses = ['Sa', 'As', 'naber', 'iyi', 'senden naber']
+
+    await ctx.send(f'Soru: {question}\nCevap: {random.choice(responses)}')
+
+
+@client.command(aliases=['clear'])
+async def temizle(ctx, amount=2):
+    await ctx.channel.purge(limit=amount)
+
+
+@client.command()
+async def kick(ctx, member: discord.Member, *, reason=None):
+    await member.kick(reason=reason)
+
+
+@client.command()
+async def ban(ctx, member: discord.Member, *, reason=None):
+    await member.ban(reason=reason)
+"""
+
+"""@client.event
+async def on_guild_join(guild):
+    with open('prefixes.json', 'r') as f:
+        prefixes = json.load(f)
+
+    prefixes[str(guild.id)] = '.'
+
+    with open('prefixes.json', 'w') as f:
+        json.dump(prefixes, f, indent=4)
+
+
+@client.event
+async def on_guild_remove(guild):
+    with open('prefixes.json', 'r') as f:
+        prefixes = json.load(f)
+
+    prefixes.pop(str(guild.id))
+
+    with open('prefixes.json', 'w') as f:
+        json.dump(prefixes, f, indent=4)
+
+
+@client.command()
+async def changeprefix(ctx, prefix):
+    with open('prefixes.json', 'r') as f:
+        prefixes = json.load(f)
+
+    prefixes[str(ctx.guild.id)] = prefix
+
+    with open('prefixes.json', 'w') as f:
+        json.dump(prefixes, f, indent=4)"""

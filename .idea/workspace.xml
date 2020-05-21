@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb3268a5-e3e6-4fd8-b39d-d4a73d9fe28b" name="Default Changelist" comment="" />
+    <list default="true" id="bb3268a5-e3e6-4fd8-b39d-d4a73d9fe28b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cogs/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/cogs/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deneme.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/users.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xkral_tr.py" beforeDir="false" afterPath="$PROJECT_DIR$/xkral_tr.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,18 +23,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZnXMfpMcB1WBX8wDyxx184HZlh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.deneme">
-    <configuration name="deneme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.xkral_tr">
+    <configuration name="171418008" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DiscordBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,7 +50,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deneme.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/171418008.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deneme2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DiscordBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deneme2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,25 +122,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ödev" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DiscordBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ödev.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.xkral_tr" />
-        <item itemvalue="Python.deneme" />
+        <item itemvalue="Python.deneme2" />
+        <item itemvalue="Python.171418008" />
+        <item itemvalue="Python.ödev" />
         <item itemvalue="Python.example" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -125,25 +167,64 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="227" key="GridCell.Tab.0.bottom" timestamp="1585709702936">
+    <state x="740" y="267" key="FileChooserDialogImpl" timestamp="1585797470131">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585709702936" />
-    <state width="1899" height="227" key="GridCell.Tab.0.center" timestamp="1585709702936">
+    <state x="740" y="267" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585797470131" />
+    <state width="1899" height="315" key="GridCell.Tab.0.bottom" timestamp="1590074856812">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="227" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585709702936" />
-    <state width="1899" height="227" key="GridCell.Tab.0.left" timestamp="1585709702936">
+    <state width="1899" height="315" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1590074856812" />
+    <state width="1899" height="315" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587574965264" />
+    <state width="1899" height="315" key="GridCell.Tab.0.center" timestamp="1590074856812">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="227" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585709702936" />
-    <state width="1899" height="227" key="GridCell.Tab.0.right" timestamp="1585709702936">
+    <state width="1899" height="315" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1590074856812" />
+    <state width="1899" height="315" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587574965264" />
+    <state width="1899" height="315" key="GridCell.Tab.0.left" timestamp="1590074856812">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="227" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585709702936" />
-    <state x="461" y="168" key="SettingsEditor" timestamp="1585675755790">
+    <state width="1899" height="315" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1590074856812" />
+    <state width="1899" height="315" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587574965264" />
+    <state width="1899" height="315" key="GridCell.Tab.0.right" timestamp="1590074856812">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1585675755790" />
+    <state width="1899" height="315" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1590074856812" />
+    <state width="1899" height="315" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587574965264" />
+    <state width="1899" height="352" key="GridCell.Tab.1.bottom" timestamp="1586743967823">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586743967823" />
+    <state width="1899" height="352" key="GridCell.Tab.1.center" timestamp="1586743967823">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586743967823" />
+    <state width="1899" height="352" key="GridCell.Tab.1.left" timestamp="1586743967823">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586743967823" />
+    <state width="1899" height="352" key="GridCell.Tab.1.right" timestamp="1586743967823">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586743967823" />
+    <state x="461" y="168" key="SettingsEditor" timestamp="1586656488155">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1586656488155" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1586706481129">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1586706481129" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Phyton/OgrenciBilgiSistemi/OgrenciKayit.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
